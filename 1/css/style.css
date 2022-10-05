@@ -1,0 +1,194 @@
+body {
+    background: #FFF;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    color: #000;
+}
+.header_IKNiT {
+    padding-left: 20px;
+}
+.header_logo {
+    font-size: 48px;
+    font-weight: 900;
+    color: #000;
+    padding-top: 45px;
+    padding-left: 20px;
+}
+.header_inner {
+    display: flex;
+}
+.golova {
+    width: 100%;
+    padding-top: 20px;
+    max-width: 1500px;
+    margin: 0 auto 20px;
+}
+.nav {
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 27px;
+}.nav__link {
+    color: #000;
+    text-display: none;
+    vertical-align: top;
+    margin: 0 20px;
+}
+.news {
+    background: #5e3030;
+    height: 1000px;
+}
+.news_text_header {
+    font-size: 35px;
+    font-weight: 300;
+    padding-top: 75px;
+    padding-left: 160px;
+}.news_block {
+    height: 100%;
+    width: 1000px;
+}
+
+.discription_photo  {
+    background: #5e3030;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: 200;
+    height: 650px;
+    width: 720px;
+    border-radius: 30px;
+}.bulding {
+    margin-left: 60px;
+    margin-top: 40px;
+    border-radius: 30px;
+    height: 650px;
+    width: 720px;
+}
+
+.text_under_photo {
+    padding-top: 20px;
+    padding-left: 330px;
+    font-weight: 300;
+}
+.news_text {
+    margin-left: 1000px;
+    margin-top: -550px;
+    width: 600px;
+}
+.text_1 {
+    font-size: 20px;
+    font-weight: 900;
+}
+.text_2 {
+    font-size: 20px;
+    font-weight: 900;
+}.text_3 {
+    font-size: 20px;
+    font-weight: 900;
+}
+.student_2{
+  margin-left: 1655px;
+  border-radius: 30px;
+  margin-top: -200px;
+  height: 200px;
+  width: 200px;
+}
+.student_3{
+  margin-left: 1660px;
+  border-radius: 30px;
+  position: relative;
+  top: -450px; left: -4px;
+  height: 200px;
+  width: 200px;
+}.student_4{
+  margin-left: 1660px;
+  border-radius: 30px;
+  position: relative;
+  top: -900px; left: -4px;
+  height: 200px;
+  width: 200px;
+}.Napravleniya {
+    background: #5e3030;
+    height: 1500px;
+    width: 100%;
+}.text_4{
+  position: relative;
+  top: 70px;
+}.razriv {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}.text_5{
+  position: relative;
+  top: 120px;
+}.text_napravleniya{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: 200;
+    height: 650px;
+    width: 1800px;
+}.text_6{
+  position: relative;
+  top: 120px;
+  font-size: 30px;
+}.nav_1 {
+    position: relative;
+    top: 100px;
+    right: 20px;
+    font-size: 27px;
+}.nav__link_1{
+    color: #a2a3a2;
+    text-display: none;
+    vertical-align: top;
+    margin: 0 20px;
+}.our_personal {
+    background: #FFF;
+    height: 1500px;
+    width: 100%;
+}.text_7{
+  position: relative;
+  top: 0px;
+  right: 140px;
+  font-size: 30px;
+}.text_about_faculty{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: 200;
+    height: 650px;
+    width: 1200px;
+    position: relative;
+    right: 200px;
+}.Gorodilov_photo{
+  background: #fff;
+  position: relative;
+  top: -750px;
+  left: 1200px;
+  height: 450px;
+  width: 520px;
+  border-radius: 30px;
+}.Gorodilov{
+  position: relative;
+  left: 150px;
+  border-radius: 30px;
+}.text_about_Gorodilov{
+  background: #FFF;
+  position: relative;
+  top: -750px;
+  left: 1350px;
+  height: 200px;
+  width: 420px;
+  border-radius: 30px;
+}.text_8{
+  font-size: 30px;
+}.end {
+  background: #5e3030;
+  height: 750px;
+  width: 100%;
+}.konec{
+  position: relative;
+  width: 100%;
+}
